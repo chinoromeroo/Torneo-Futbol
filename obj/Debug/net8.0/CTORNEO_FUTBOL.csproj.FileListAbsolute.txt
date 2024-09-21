@@ -1,0 +1,42 @@
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\bin\Debug\net8.0\CTORNEO_FUTBOL.exe
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\bin\Debug\net8.0\CTORNEO_FUTBOL.deps.json
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\bin\Debug\net8.0\CTORNEO_FUTBOL.runtimeconfig.json
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\bin\Debug\net8.0\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\bin\Debug\net8.0\CTORNEO_FUTBOL.pdb
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\obj\Debug\net8.0\CTORNEO_FUTBOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\obj\Debug\net8.0\CTORNEO_FUTBOL.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\obj\Debug\net8.0\CTORNEO_FUTBOL.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\obj\Debug\net8.0\CTORNEO_FUTBOL.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\obj\Debug\net8.0\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\obj\Debug\net8.0\refint\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\obj\Debug\net8.0\CTORNEO_FUTBOL.pdb
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\obj\Debug\net8.0\CTORNEO_FUTBOL.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\TP-Programacion-3-Torneo-de-Futbol-main\obj\Debug\net8.0\ref\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\bin\Debug\net8.0\CTORNEO_FUTBOL.exe
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\bin\Debug\net8.0\CTORNEO_FUTBOL.deps.json
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\bin\Debug\net8.0\CTORNEO_FUTBOL.runtimeconfig.json
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\bin\Debug\net8.0\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\bin\Debug\net8.0\CTORNEO_FUTBOL.pdb
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\obj\Debug\net8.0\CTORNEO_FUTBOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\obj\Debug\net8.0\CTORNEO_FUTBOL.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\obj\Debug\net8.0\CTORNEO_FUTBOL.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\obj\Debug\net8.0\CTORNEO_FUTBOL.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\obj\Debug\net8.0\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\obj\Debug\net8.0\refint\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\obj\Debug\net8.0\CTORNEO_FUTBOL.pdb
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\obj\Debug\net8.0\CTORNEO_FUTBOL.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\TP - TorneoFutbol - Terminado\obj\Debug\net8.0\ref\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\bin\Debug\net8.0\CTORNEO_FUTBOL.exe
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\bin\Debug\net8.0\CTORNEO_FUTBOL.deps.json
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\bin\Debug\net8.0\CTORNEO_FUTBOL.runtimeconfig.json
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\bin\Debug\net8.0\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\bin\Debug\net8.0\CTORNEO_FUTBOL.pdb
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\obj\Debug\net8.0\CTORNEO_FUTBOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\obj\Debug\net8.0\CTORNEO_FUTBOL.AssemblyInfoInputs.cache
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\obj\Debug\net8.0\CTORNEO_FUTBOL.AssemblyInfo.cs
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\obj\Debug\net8.0\CTORNEO_FUTBOL.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\obj\Debug\net8.0\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\obj\Debug\net8.0\refint\CTORNEO_FUTBOL.dll
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\obj\Debug\net8.0\CTORNEO_FUTBOL.pdb
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\obj\Debug\net8.0\CTORNEO_FUTBOL.genruntimeconfig.cache
+C:\Users\Valentin\Desktop\UTN\TERCER CUATRIMESTRE\Programas III\TORNEO-FUTBOL-TP\TP - TorneoFutbol - Finalizado\obj\Debug\net8.0\ref\CTORNEO_FUTBOL.dll
